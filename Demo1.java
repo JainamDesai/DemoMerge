@@ -6,7 +6,7 @@ public static void main(String args[]){
 
 
 public void demo(){
-System.out.println("jainam is great");
+System.out.println("jainam is gxcxcxcxcxcreat");
 }
 
 
